@@ -1,4 +1,5 @@
 In this project, I aimed to predict the temperature for a specific location at a glass furnace, at the next timestamp.
+
 In order to do so, a data preprocessing process, followed by a supervised learning model, regression, was needed. 
 
 First of all, Data Cleaning and Exploratory Data Analysis processes were held. Needed features are identified.
